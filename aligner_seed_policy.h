@@ -24,7 +24,7 @@
 #include "simple_func.h"
 
 #define DEFAULT_SEEDMMS 0
-#define DEFAULT_SEEDLEN 22
+#define DEFAULT_SEEDLEN 15
 
 #define DEFAULT_IVAL SIMPLE_FUNC_SQRT
 #define DEFAULT_IVAL_A 1.15f
